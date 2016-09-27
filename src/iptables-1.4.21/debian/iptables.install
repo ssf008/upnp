@@ -1,0 +1,10 @@
+lib/libip*.so.*
+usr/sbin/ip* sbin
+usr/sbin/xt* sbin
+usr/sbin/nf* usr/sbin
+lib/xtables
+iptables/iptables-apply usr/sbin
+iptables/iptables.xslt usr/share/iptables
+usr/share/man/man8
+usr/share/man/man1
+howtos/NAT*html debian/tmp/howtos/packet*html usr/share/doc/iptables/html
